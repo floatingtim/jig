@@ -3,7 +3,7 @@
 google_sheet:  https://docs.google.com/spreadsheets/d/162WQHRdSjZgu7KP4OpMjpwm2wa5Cn2FPIsvWeaTF5BI/edit
 
 # 2) Give your Jig a name
-title: (test) Jig
+title: testjig
 
 # 3) Change this to you Github user
 github_user: floatingtim
@@ -11,7 +11,7 @@ github_user: floatingtim
 # 3) Change this to your repo (when/if you change the name)
 github_repo: jig
 
-# 4) This is the header logo, if you want to chnge
+# 4) This is the header logo, if you want to change
 header_image: https://teh-jigz-up.github.io/teh-jigz-up/images/teh-jigz-up-header.png
 
 # DO NOT CHANGE
